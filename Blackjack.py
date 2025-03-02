@@ -1,4 +1,4 @@
-#This code consits of many modules for the mentioned balckjack game
+#This is a Game code which is good for predicting the best next move in Blackjack
 import random
 import numpy as np
 import tensorflow as tf
